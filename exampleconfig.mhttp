@@ -1,0 +1,12 @@
+{
+    "pages": {
+        "index.html": {
+            "root": "/",
+            "exact": true
+        },
+        "other.html": {
+            "root": "/other",
+            "exact": true
+        }
+    }
+}

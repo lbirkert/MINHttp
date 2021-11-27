@@ -1,0 +1,14 @@
+{
+  "name": "minhttp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "author": "KekOnTheWorld",
+  "license": "ISC",
+  "dependencies": {
+  }
+}
