@@ -1,0 +1,4 @@
+{
+  "watch": ["static/", "index.js", "config.mhttp", "pages/*", "public/*"],
+  "ext": "js"
+}

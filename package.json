@@ -10,5 +10,8 @@
   "author": "KekOnTheWorld",
   "license": "ISC",
   "dependencies": {
+    "fs-extra": "^10.0.0",
+    "jsdom": "^18.1.1",
+    "node-minify": "^3.6.0"
   }
 }
